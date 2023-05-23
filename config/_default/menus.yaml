@@ -12,12 +12,12 @@ main:
     url: physics-chemistry-notes/13-14-year-olds
     identifier: 13-year
     parent: tour
-    weight: 1
+    weight: 11
   - name: 📗 15 year-olds
     url: physics-chemistry-notes/13-14-year-olds
     identifier: 15-year
     parent: 13-year
-    weight: 1
+    weight: 12
   - name: News
     url: post
     weight: 20
