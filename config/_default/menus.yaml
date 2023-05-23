@@ -27,7 +27,7 @@ main:
     url: post
     identifier: news
     weight: 20
-  - name: 📗 15 year-olds
+  - name: 📗 19 year-olds
     url: physics-chemistry-notes/13-14-year-olds
     identifier: 15-year
     parent: news
