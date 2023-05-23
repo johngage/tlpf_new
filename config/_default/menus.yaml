@@ -22,10 +22,16 @@ main:
     url: physics-chemistry-notes/13-14-year-olds
     identifier: 18-year
     parent: 13-year
-    weight: 11
+    weight: 15
   - name: News
     url: post
+    identifier: news
     weight: 20
+  - name: 📗 15 year-olds
+    url: physics-chemistry-notes/13-14-year-olds
+    identifier: 15-year
+    parent: news
+    weight: 12
   - name: People
     url: people
     weight: 30
