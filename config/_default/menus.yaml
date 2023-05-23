@@ -22,7 +22,7 @@ main:
     url: physics-chemistry-notes/13-14-year-olds
     identifier: 18-year
     parent: 13-year
-    weight: 10
+    weight: 11
   - name: News
     url: post
     identifier: news
