@@ -6,7 +6,12 @@
 main:
   - name: Tour
     url: tour
+    identifier: tour
     weight: 10
+  - name: 📗 13-14 year-olds
+    url: physics-chemistry-notes/13-14-year-olds
+    parent: tour
+    weight: 1
   - name: News
     url: post
     weight: 20
