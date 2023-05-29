@@ -30,6 +30,7 @@ module:
 ############################
 
 enableGitInfo: false
+enableAdmin: true
 summaryLength: 30
 paginate: 10
 enableEmoji: true
